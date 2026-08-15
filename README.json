@@ -14,7 +14,7 @@
             "last_commit": "2026-08-12T16:23:57Z",
             "owner": "coder",
             "repo": "code-server",
-            "stars": 78810
+            "stars": 78816
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T07:34:56Z",
+            "last_commit": "2026-08-15T01:30:09Z",
             "owner": "coder",
             "repo": "coder",
-            "stars": 14149
+            "stars": 14151
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T05:49:11Z",
+            "last_commit": "2026-08-15T00:39:02Z",
             "owner": "coder",
             "repo": "mux",
-            "stars": 1968
+            "stars": 1969
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-07-05T18:34:08Z",
             "owner": "coder",
             "repo": "boo",
-            "stars": 753
+            "stars": 754
           }
         },
         {
@@ -244,7 +244,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T00:59:55Z",
+            "last_commit": "2026-08-14T16:55:58Z",
             "owner": "coder",
             "repo": "vscode-coder",
             "stars": 127
@@ -326,10 +326,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T07:34:56Z",
+            "last_commit": "2026-08-15T01:30:09Z",
             "owner": "coder",
             "repo": "coder",
-            "stars": 14149
+            "stars": 14151
           }
         },
         {
@@ -357,7 +357,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T07:52:11.549Z",
+    "last_updated": "2026-08-15T06:58:32.960Z",
     "original_repository": "coder/awesome-coder",
     "original_repository_sha": "c4f06c207d9e0ad4366ae22fc2e339c172106934",
     "enhanced_repository": "enhansome/enhansome-coder",
