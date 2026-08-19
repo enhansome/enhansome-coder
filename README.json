@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 172953845,
             "language": "TypeScript",
             "last_commit": "2026-08-18T00:01:59Z",
             "owner": "coder",
             "repo": "code-server",
-            "stars": 78918
+            "stars": 78939
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 440752086,
             "language": "Go",
-            "last_commit": "2026-08-18T07:05:04Z",
+            "last_commit": "2026-08-19T06:57:56Z",
             "owner": "coder",
             "repo": "coder",
-            "stars": 14184
+            "stars": 14199
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1058825816,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T20:14:06Z",
+            "last_commit": "2026-08-19T02:21:27Z",
             "owner": "coder",
             "repo": "mux",
-            "stars": 1973
+            "stars": 1976
           }
         },
         {
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1264560911,
             "language": "Zig",
             "last_commit": "2026-07-05T18:34:08Z",
             "owner": "coder",
             "repo": "boo",
-            "stars": 757
+            "stars": 760
           }
         },
         {
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 620006704,
             "language": "Go",
             "last_commit": "2026-05-22T11:40:36Z",
             "owner": "coder",
@@ -80,8 +85,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 961990912,
             "language": "HCL",
-            "last_commit": "2026-08-17T21:42:30Z",
+            "last_commit": "2026-08-18T23:57:21Z",
             "owner": "coder",
             "repo": "registry",
             "stars": 75
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 497441888,
             "language": "HCL",
             "last_commit": "2024-08-19T14:54:01Z",
             "owner": "bpmct",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 503138531,
             "language": "HCL",
             "last_commit": "2025-08-24T01:36:09Z",
             "owner": "sharkymark",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 522274041,
             "language": "HCL",
             "last_commit": "2026-06-23T11:16:13Z",
             "owner": "matifali",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 504126770,
             "language": "HCL",
             "last_commit": "2024-04-27T08:42:51Z",
             "owner": "ntimo",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 514939181,
             "language": "HCL",
             "last_commit": "2024-09-22T08:10:03Z",
             "owner": "uwu",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 754261957,
             "language": "HCL",
             "last_commit": "2024-03-20T19:25:06Z",
             "owner": "sulo1337",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 535157691,
             "language": "HCL",
             "last_commit": "2023-09-02T02:38:43Z",
             "owner": "denbeigh2000",
@@ -195,12 +208,7 @@
       "title": "Templates"
     },
     {
-      "description": "Start with the Coder Registry for modules that extend your templates with tools and integrations: IDE installers, dotfiles support, code-server, JetBrains, and more.",
-      "items": [],
-      "title": "Modules"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -209,8 +217,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 462891362,
             "language": "Go",
-            "last_commit": "2026-08-18T04:43:01Z",
+            "last_commit": "2026-08-18T23:48:59Z",
             "owner": "coder",
             "repo": "terraform-provider-coder",
             "stars": 60
@@ -223,8 +232,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 811754016,
             "language": "Go",
-            "last_commit": "2026-08-18T07:04:18Z",
+            "last_commit": "2026-08-19T06:05:43Z",
             "owner": "coder",
             "repo": "terraform-provider-coderd",
             "stars": 29
@@ -234,7 +244,7 @@
       "title": "Terraform Providers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -243,8 +253,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 582550891,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T01:04:22Z",
+            "last_commit": "2026-08-19T00:40:53Z",
             "owner": "coder",
             "repo": "vscode-coder",
             "stars": 129
@@ -257,8 +268,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 934758256,
             "language": "Kotlin",
-            "last_commit": "2026-08-13T20:33:07Z",
+            "last_commit": "2026-08-18T08:08:14Z",
             "owner": "coder",
             "repo": "coder-jetbrains-toolbox",
             "stars": 24
@@ -268,7 +280,7 @@
       "title": "IDE Integrations"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -277,6 +289,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 859698790,
             "language": "Swift",
             "last_commit": "2026-08-05T17:53:10Z",
             "owner": "coder",
@@ -291,11 +304,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 859699154,
             "language": "C#",
             "last_commit": "2026-07-28T23:14:08Z",
             "owner": "coder",
             "repo": "coder-desktop-windows",
-            "stars": 25
+            "stars": 26
           }
         },
         {
@@ -305,6 +319,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1160425151,
             "language": "C#",
             "last_commit": "2026-07-13T06:18:17Z",
             "owner": "coder",
@@ -316,7 +331,7 @@
       "title": "Coder Desktop"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -325,11 +340,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 440752086,
             "language": "Go",
-            "last_commit": "2026-08-18T07:05:04Z",
+            "last_commit": "2026-08-19T06:57:56Z",
             "owner": "coder",
             "repo": "coder",
-            "stars": 14184
+            "stars": 14199
           }
         },
         {
@@ -339,25 +355,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1211710747,
             "language": "Nix",
             "last_commit": "2026-07-06T14:12:36Z",
             "owner": "coder",
             "repo": "box",
             "stars": 19
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Update Coder Template",
-          "description": "A GitHub Action to automate Coder template changes.",
-          "children": []
         }
       ],
       "title": "Automation"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:05:46.000Z",
+    "last_updated": "2026-08-19T07:06:58.130Z",
     "original_repository": "coder/awesome-coder",
     "original_repository_sha": "c4f06c207d9e0ad4366ae22fc2e339c172106934",
     "enhanced_repository": "enhansome/enhansome-coder",
