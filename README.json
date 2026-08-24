@@ -15,7 +15,7 @@
             "last_commit": "2026-08-20T21:45:26Z",
             "owner": "coder",
             "repo": "code-server",
-            "stars": 79016
+            "stars": 79035
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 440752086,
             "language": "Go",
-            "last_commit": "2026-08-23T00:46:23Z",
+            "last_commit": "2026-08-24T07:04:42Z",
             "owner": "coder",
             "repo": "coder",
-            "stars": 14227
+            "stars": 14235
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 1058825816,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T06:43:31Z",
+            "last_commit": "2026-08-24T07:28:14Z",
             "owner": "coder",
             "repo": "xum",
-            "stars": 1979
+            "stars": 1981
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-07-05T18:34:08Z",
             "owner": "coder",
             "repo": "boo",
-            "stars": 767
+            "stars": 768
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 961990912,
             "language": "HCL",
-            "last_commit": "2026-08-21T13:39:02Z",
+            "last_commit": "2026-08-24T05:16:38Z",
             "owner": "coder",
             "repo": "registry",
             "stars": 76
@@ -342,10 +342,10 @@
             "archived": false,
             "id": 440752086,
             "language": "Go",
-            "last_commit": "2026-08-23T00:46:23Z",
+            "last_commit": "2026-08-24T07:04:42Z",
             "owner": "coder",
             "repo": "coder",
-            "stars": 14227
+            "stars": 14235
           }
         },
         {
@@ -368,7 +368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T07:02:32.639Z",
+    "last_updated": "2026-08-24T07:29:55.180Z",
     "original_repository": "coder/awesome-coder",
     "original_repository_id": 531763482,
     "original_repository_sha": "c4f06c207d9e0ad4366ae22fc2e339c172106934",
