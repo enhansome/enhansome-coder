@@ -27,7 +27,7 @@
             "archived": false,
             "id": 440752086,
             "language": "Go",
-            "last_commit": "2026-08-25T06:16:46Z",
+            "last_commit": "2026-08-25T07:07:54Z",
             "owner": "coder",
             "repo": "coder",
             "stars": 14240
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 1058825816,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T06:20:29Z",
+            "last_commit": "2026-08-25T07:05:15Z",
             "owner": "coder",
             "repo": "xum",
             "stars": 1982
@@ -342,7 +342,7 @@
             "archived": false,
             "id": 440752086,
             "language": "Go",
-            "last_commit": "2026-08-25T06:16:46Z",
+            "last_commit": "2026-08-25T07:07:54Z",
             "owner": "coder",
             "repo": "coder",
             "stars": 14240
@@ -368,7 +368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:23:41.161Z",
+    "last_updated": "2026-08-25T07:09:38.367Z",
     "original_repository": "coder/awesome-coder",
     "original_repository_id": 531763482,
     "original_repository_sha": "c4f06c207d9e0ad4366ae22fc2e339c172106934",
