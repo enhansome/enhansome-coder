@@ -12,10 +12,10 @@
             "archived": false,
             "id": 172953845,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T22:00:51Z",
+            "last_commit": "2026-08-26T22:54:54Z",
             "owner": "coder",
             "repo": "code-server",
-            "stars": 79071
+            "stars": 79084
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 440752086,
             "language": "Go",
-            "last_commit": "2026-08-26T07:05:07Z",
+            "last_commit": "2026-08-27T11:32:01Z",
             "owner": "coder",
             "repo": "coder",
-            "stars": 14254
+            "stars": 14267
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 1058825816,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T07:09:25Z",
+            "last_commit": "2026-08-27T11:34:21Z",
             "owner": "coder",
             "repo": "xum",
-            "stars": 1983
+            "stars": 1986
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 961990912,
             "language": "HCL",
-            "last_commit": "2026-08-25T23:02:56Z",
+            "last_commit": "2026-08-27T09:37:35Z",
             "owner": "coder",
             "repo": "registry",
             "stars": 77
@@ -234,7 +234,7 @@
             "archived": false,
             "id": 811754016,
             "language": "Go",
-            "last_commit": "2026-08-25T18:17:59Z",
+            "last_commit": "2026-08-27T11:17:34Z",
             "owner": "coder",
             "repo": "terraform-provider-coderd",
             "stars": 29
@@ -255,7 +255,7 @@
             "archived": false,
             "id": 582550891,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T23:14:26Z",
+            "last_commit": "2026-08-26T21:34:07Z",
             "owner": "coder",
             "repo": "vscode-coder",
             "stars": 129
@@ -270,7 +270,7 @@
             "archived": false,
             "id": 934758256,
             "language": "Kotlin",
-            "last_commit": "2026-08-25T18:42:45Z",
+            "last_commit": "2026-08-26T19:06:54Z",
             "owner": "coder",
             "repo": "coder-jetbrains-toolbox",
             "stars": 24
@@ -342,10 +342,10 @@
             "archived": false,
             "id": 440752086,
             "language": "Go",
-            "last_commit": "2026-08-26T07:05:07Z",
+            "last_commit": "2026-08-27T11:32:01Z",
             "owner": "coder",
             "repo": "coder",
-            "stars": 14254
+            "stars": 14267
           }
         },
         {
@@ -357,7 +357,7 @@
             "archived": false,
             "id": 1211710747,
             "language": "Nix",
-            "last_commit": "2026-08-26T03:17:28Z",
+            "last_commit": "2026-08-26T16:06:56Z",
             "owner": "coder",
             "repo": "box",
             "stars": 19
@@ -368,10 +368,17 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:10:10.075Z",
-    "original_repository": "coder/awesome-coder",
-    "original_repository_id": 531763482,
-    "original_repository_sha": "c4f06c207d9e0ad4366ae22fc2e339c172106934",
+    "last_updated": "2026-08-27T11:35:04.303Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 531763482,
+      "language": null,
+      "last_commit": "2026-08-26T14:23:11Z",
+      "owner": "coder",
+      "repo": "awesome-coder",
+      "stars": 209
+    },
+    "original_repository_sha": "1988706b9dbe439eee0b5f6c2be0332eb7fdda70",
     "enhanced_repository": "enhansome/enhansome-coder",
     "enhanced_repository_description": null,
     "title": "Awesome Coder with stars"
