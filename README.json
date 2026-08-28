@@ -12,11 +12,12 @@
             "archived": false,
             "id": 172953845,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T22:54:54Z",
+            "last_commit": "2026-08-27T19:46:23Z",
             "owner": "coder",
             "repo": "code-server",
-            "stars": 79086
-          }
+            "stars": 79103
+          },
+          "first_seen": "2026-08-28T18:44:35.141Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 440752086,
             "language": "Go",
-            "last_commit": "2026-08-27T17:37:56Z",
+            "last_commit": "2026-08-28T17:41:01Z",
             "owner": "coder",
             "repo": "coder",
-            "stars": 14270
-          }
+            "stars": 14285
+          },
+          "first_seen": "2026-08-28T18:44:35.141Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 1058825816,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T17:25:37Z",
+            "last_commit": "2026-08-28T17:49:44Z",
             "owner": "coder",
             "repo": "xum",
-            "stars": 1988
-          }
+            "stars": 1990
+          },
+          "first_seen": "2026-08-28T18:44:35.141Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "coder",
             "repo": "boo",
             "stars": 771
-          }
+          },
+          "first_seen": "2026-08-28T18:44:35.141Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "coder",
             "repo": "envbuilder",
             "stars": 300
-          }
+          },
+          "first_seen": "2026-08-28T18:44:35.141Z"
         },
         {
           "node_type": "item",
@@ -87,11 +92,12 @@
             "archived": false,
             "id": 961990912,
             "language": "HCL",
-            "last_commit": "2026-08-27T15:58:16Z",
+            "last_commit": "2026-08-27T21:50:12Z",
             "owner": "coder",
             "repo": "registry",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T18:44:35.141Z"
         }
       ],
       "title": "Platform and Tools"
@@ -112,7 +118,8 @@
             "owner": "bpmct",
             "repo": "coder-templates",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T18:44:35.141Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "sharkymark",
             "repo": "v2-templates",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-28T18:44:35.141Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "matifali",
             "repo": "coder-templates",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T18:44:35.141Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "ntimo",
             "repo": "coder-hetzner-cloud-template",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T18:44:35.141Z"
         },
         {
           "node_type": "item",
@@ -165,14 +175,15 @@
           "description": "Docker-based dev environment with VS Code, an XFCE + noVNC desktop, dotfiles, and preinstalled language runtimes (Dart, Java, JavaScript/Node).",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "id": 514939181,
             "language": "HCL",
             "last_commit": "2024-09-22T08:10:03Z",
             "owner": "uwu",
             "repo": "basic-env",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T18:44:35.141Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "sulo1337",
             "repo": "coder-kubevirt-template",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T18:44:35.141Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "denbeigh2000",
             "repo": "coder-templates",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T18:44:35.141Z"
         }
       ],
       "title": "Templates"
@@ -223,7 +236,8 @@
             "owner": "coder",
             "repo": "terraform-provider-coder",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T18:44:35.141Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "coder",
             "repo": "terraform-provider-coderd",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T18:44:35.141Z"
         }
       ],
       "title": "Terraform Providers"
@@ -255,11 +270,12 @@
             "archived": false,
             "id": 582550891,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T17:38:27Z",
+            "last_commit": "2026-08-28T17:53:36Z",
             "owner": "coder",
             "repo": "vscode-coder",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-28T18:44:35.141Z"
         },
         {
           "node_type": "item",
@@ -270,11 +286,12 @@
             "archived": false,
             "id": 934758256,
             "language": "Kotlin",
-            "last_commit": "2026-08-26T19:06:54Z",
+            "last_commit": "2026-08-27T21:18:55Z",
             "owner": "coder",
             "repo": "coder-jetbrains-toolbox",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T18:44:35.141Z"
         }
       ],
       "title": "IDE Integrations"
@@ -295,7 +312,8 @@
             "owner": "coder",
             "repo": "coder-desktop-macos",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T18:44:35.141Z"
         },
         {
           "node_type": "item",
@@ -310,7 +328,8 @@
             "owner": "coder",
             "repo": "coder-desktop-windows",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T18:44:35.141Z"
         },
         {
           "node_type": "item",
@@ -325,7 +344,8 @@
             "owner": "coder",
             "repo": "coder-desktop-linux",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T18:44:35.141Z"
         }
       ],
       "title": "Coder Desktop"
@@ -342,11 +362,12 @@
             "archived": false,
             "id": 440752086,
             "language": "Go",
-            "last_commit": "2026-08-27T17:37:56Z",
+            "last_commit": "2026-08-28T17:41:01Z",
             "owner": "coder",
             "repo": "coder",
-            "stars": 14270
-          }
+            "stars": 14285
+          },
+          "first_seen": "2026-08-28T18:44:35.141Z"
         },
         {
           "node_type": "item",
@@ -361,19 +382,20 @@
             "owner": "coder",
             "repo": "box",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T18:44:35.141Z"
         }
       ],
       "title": "Automation"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:39:14.274Z",
+    "last_updated": "2026-08-28T18:44:35.141Z",
     "original_repository_info": {
       "archived": false,
       "id": 531763482,
       "language": null,
-      "last_commit": "2026-08-26T14:23:11Z",
+      "last_commit": "2026-08-28T12:25:17Z",
       "owner": "coder",
       "repo": "awesome-coder",
       "stars": 209
