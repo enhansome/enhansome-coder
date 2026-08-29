@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VS Code in the browser",
+            "homepage": "https://coder.com",
             "id": 172953845,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T19:46:23Z",
+            "open_issues": 150,
             "owner": "coder",
             "repo": "code-server",
-            "stars": 79103
+            "stars": 79105,
+            "topics": [
+              "browser-ide",
+              "dev-tools",
+              "development-environment",
+              "ide",
+              "remote-work",
+              "vscode",
+              "vscode-remote"
+            ]
           },
           "first_seen": "2026-08-28T18:44:35.141Z"
         },
@@ -26,12 +39,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Secure environments for developers and their agents",
+            "homepage": "https://coder.com",
             "id": 440752086,
             "language": "Go",
-            "last_commit": "2026-08-28T17:41:01Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T04:24:50Z",
+            "open_issues": 957,
             "owner": "coder",
             "repo": "coder",
-            "stars": 14285
+            "stars": 14294,
+            "topics": [
+              "agents",
+              "dev-tools",
+              "development-environment",
+              "go",
+              "golang",
+              "ide",
+              "jetbrains",
+              "remote-development",
+              "terraform",
+              "vscode"
+            ]
           },
           "first_seen": "2026-08-28T18:44:35.141Z"
         },
@@ -42,12 +71,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A desktop app for isolated, parallel agentic development",
+            "homepage": "https://xum.coder.com",
             "id": 1058825816,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T17:49:44Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T04:44:17Z",
+            "open_issues": 244,
             "owner": "coder",
             "repo": "xum",
-            "stars": 1990
+            "stars": 1990,
+            "topics": [
+              "agent",
+              "ide"
+            ]
           },
           "first_seen": "2026-08-28T18:44:35.141Z"
         },
@@ -58,12 +95,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A GNU screen style terminal multiplexer built on libghostty.",
+            "homepage": null,
             "id": 1264560911,
             "language": "Zig",
+            "license": "MIT",
             "last_commit": "2026-07-05T18:34:08Z",
+            "open_issues": 7,
             "owner": "coder",
             "repo": "boo",
-            "stars": 771
+            "stars": 773,
+            "topics": [
+              "ai",
+              "coding",
+              "ghostty",
+              "multiplexer",
+              "screen",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T18:44:35.141Z"
         },
@@ -74,12 +123,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build development environments from a Dockerfile on Docker, Kubernetes, and OpenShift. Enable developers to modify their development environment quickly.",
+            "homepage": null,
             "id": 620006704,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T22:23:25Z",
+            "open_issues": 84,
             "owner": "coder",
             "repo": "envbuilder",
-            "stars": 300
+            "stars": 300,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:44:35.141Z"
         },
@@ -90,12 +144,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Publish Coder modules and templates for other developers to use.",
+            "homepage": "https://registry.coder.com",
             "id": 961990912,
             "language": "HCL",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T21:50:12Z",
+            "open_issues": 62,
             "owner": "coder",
             "repo": "registry",
-            "stars": 77
+            "stars": 77,
+            "topics": [
+              "ai",
+              "dev-tools",
+              "development-environment",
+              "ide",
+              "jetbrains",
+              "remote-development",
+              "terraform",
+              "vscode"
+            ]
           },
           "first_seen": "2026-08-28T18:44:35.141Z"
         }
@@ -112,12 +180,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Templates I use for my Coder deployment",
+            "homepage": null,
             "id": 497441888,
             "language": "HCL",
+            "license": null,
             "last_commit": "2024-08-19T14:54:01Z",
+            "open_issues": 6,
             "owner": "bpmct",
             "repo": "coder-templates",
-            "stars": 104
+            "stars": 104,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:44:35.141Z"
         },
@@ -128,12 +201,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Coder CDE Terraform templates and tips",
+            "homepage": null,
             "id": 503138531,
             "language": "HCL",
+            "license": "MIT",
             "last_commit": "2025-08-24T01:36:09Z",
+            "open_issues": 0,
             "owner": "sharkymark",
             "repo": "v2-templates",
-            "stars": 101
+            "stars": 101,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:44:35.141Z"
         },
@@ -144,12 +222,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Coder OSS templates",
+            "homepage": "https://github.com/matifali/coder-templates",
             "id": 522274041,
             "language": "HCL",
+            "license": "MIT",
             "last_commit": "2026-06-23T11:16:13Z",
+            "open_issues": 0,
             "owner": "matifali",
             "repo": "coder-templates",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "coder",
+              "deeplearning",
+              "docker",
+              "matlab",
+              "python",
+              "template",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-28T18:44:35.141Z"
         },
@@ -160,12 +251,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repo contains a Terraform template for Coder https://github.com/coder/coder to setup a cloud instance as dev environment with or without vscode",
+            "homepage": null,
             "id": 504126770,
             "language": "HCL",
+            "license": "GPL-3.0",
             "last_commit": "2024-04-27T08:42:51Z",
+            "open_issues": 3,
             "owner": "ntimo",
             "repo": "coder-hetzner-cloud-template",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:44:35.141Z"
         },
@@ -176,12 +272,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Basic development environment for Coder",
+            "homepage": null,
             "id": 514939181,
             "language": "HCL",
+            "license": null,
             "last_commit": "2024-09-22T08:10:03Z",
+            "open_issues": 2,
             "owner": "uwu",
             "repo": "basic-env",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:44:35.141Z"
         },
@@ -192,12 +293,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 754261957,
             "language": "HCL",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-20T19:25:06Z",
+            "open_issues": 1,
             "owner": "sulo1337",
             "repo": "coder-kubevirt-template",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:44:35.141Z"
         },
@@ -208,12 +314,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Coder workspace templates, focused on NixOS.",
+            "homepage": null,
             "id": 535157691,
             "language": "HCL",
+            "license": null,
             "last_commit": "2023-09-02T02:38:43Z",
+            "open_issues": 0,
             "owner": "denbeigh2000",
             "repo": "coder-templates",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:44:35.141Z"
         }
@@ -230,12 +341,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://coder.com",
             "id": 462891362,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-27T14:06:39Z",
+            "open_issues": 48,
             "owner": "coder",
             "repo": "terraform-provider-coder",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:44:35.141Z"
         },
@@ -246,12 +362,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manage a Coder deployment using Terraform",
+            "homepage": "https://registry.terraform.io/providers/coder/coderd/latest/docs",
             "id": 811754016,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-27T12:37:46Z",
+            "open_issues": 30,
             "owner": "coder",
             "repo": "terraform-provider-coderd",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:44:35.141Z"
         }
@@ -268,12 +389,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open any Coder workspace in VS Code with a single click.",
+            "homepage": null,
             "id": 582550891,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T17:53:36Z",
+            "open_issues": 47,
             "owner": "coder",
             "repo": "vscode-coder",
-            "stars": 129
+            "stars": 129,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:44:35.141Z"
         },
@@ -284,12 +410,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Coder plugin for remote development support in JetBrains Toolbox",
+            "homepage": "https://coder.com",
             "id": 934758256,
             "language": "Kotlin",
-            "last_commit": "2026-08-27T21:18:55Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T20:16:13Z",
+            "open_issues": 28,
             "owner": "coder",
             "repo": "coder-jetbrains-toolbox",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "cde",
+              "coder",
+              "ide",
+              "intellij",
+              "jetbrains",
+              "remote",
+              "remote-development",
+              "toolbox"
+            ]
           },
           "first_seen": "2026-08-28T18:44:35.141Z"
         }
@@ -306,12 +446,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Coder Desktop application for macOS",
+            "homepage": null,
             "id": 859698790,
             "language": "Swift",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-05T17:53:10Z",
+            "open_issues": 22,
             "owner": "coder",
             "repo": "coder-desktop-macos",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:44:35.141Z"
         },
@@ -322,12 +467,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Coder Desktop application for Windows",
+            "homepage": null,
             "id": 859699154,
             "language": "C#",
+            "license": "AGPL-3.0",
             "last_commit": "2026-07-28T23:14:08Z",
+            "open_issues": 34,
             "owner": "coder",
             "repo": "coder-desktop-windows",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:44:35.141Z"
         },
@@ -338,12 +488,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Coder Desktop application for Linux (experimental)",
+            "homepage": null,
             "id": 1160425151,
             "language": "C#",
+            "license": "AGPL-3.0",
             "last_commit": "2026-07-13T06:18:17Z",
+            "open_issues": 1,
             "owner": "coder",
             "repo": "coder-desktop-linux",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:44:35.141Z"
         }
@@ -360,12 +515,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Secure environments for developers and their agents",
+            "homepage": "https://coder.com",
             "id": 440752086,
             "language": "Go",
-            "last_commit": "2026-08-28T17:41:01Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T04:24:50Z",
+            "open_issues": 957,
             "owner": "coder",
             "repo": "coder",
-            "stars": 14285
+            "stars": 14294,
+            "topics": [
+              "agents",
+              "dev-tools",
+              "development-environment",
+              "go",
+              "golang",
+              "ide",
+              "jetbrains",
+              "remote-development",
+              "terraform",
+              "vscode"
+            ]
           },
           "first_seen": "2026-08-28T18:44:35.141Z"
         },
@@ -376,12 +547,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Box™ is a NixOS-based appliance for Coder",
+            "homepage": null,
             "id": 1211710747,
             "language": "Nix",
+            "license": null,
             "last_commit": "2026-08-26T16:06:56Z",
+            "open_issues": 18,
             "owner": "coder",
             "repo": "box",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "nixos"
+            ]
           },
           "first_seen": "2026-08-28T18:44:35.141Z"
         }
@@ -390,15 +568,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:44:35.141Z",
+    "last_updated": "2026-08-29T04:51:46.901Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Coder resources.",
+      "homepage": null,
       "id": 531763482,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-28T12:25:17Z",
+      "open_issues": 2,
       "owner": "coder",
       "repo": "awesome-coder",
-      "stars": 209
+      "stars": 209,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "coder",
+        "lists",
+        "resources"
+      ]
     },
     "original_repository_sha": "1988706b9dbe439eee0b5f6c2be0332eb7fdda70",
     "enhanced_repository": "enhansome/enhansome-coder",
