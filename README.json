@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-27T19:46:23Z",
-            "open_issues": 150,
+            "open_issues": 151,
             "owner": "coder",
             "repo": "code-server",
-            "stars": 79108,
+            "stars": 79120,
             "topics": [
               "browser-ide",
               "dev-tools",
@@ -44,11 +44,11 @@
             "id": 440752086,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-29T12:40:38Z",
-            "open_issues": 963,
+            "last_commit": "2026-08-30T11:09:19Z",
+            "open_issues": 964,
             "owner": "coder",
             "repo": "coder",
-            "stars": 14294,
+            "stars": 14299,
             "topics": [
               "agents",
               "dev-tools",
@@ -76,11 +76,11 @@
             "id": 1058825816,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-29T12:37:53Z",
-            "open_issues": 241,
+            "last_commit": "2026-08-30T09:26:33Z",
+            "open_issues": 250,
             "owner": "coder",
             "repo": "xum",
-            "stars": 1992,
+            "stars": 1994,
             "topics": [
               "agent",
               "ide"
@@ -150,10 +150,10 @@
             "language": "HCL",
             "license": "Apache-2.0",
             "last_commit": "2026-08-27T21:50:12Z",
-            "open_issues": 62,
+            "open_issues": 63,
             "owner": "coder",
             "repo": "registry",
-            "stars": 77,
+            "stars": 78,
             "topics": [
               "ai",
               "dev-tools",
@@ -451,7 +451,7 @@
             "id": 859698790,
             "language": "Swift",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-05T17:53:10Z",
+            "last_commit": "2026-08-30T11:50:41Z",
             "open_issues": 22,
             "owner": "coder",
             "repo": "coder-desktop-macos",
@@ -497,7 +497,7 @@
             "open_issues": 1,
             "owner": "coder",
             "repo": "coder-desktop-linux",
-            "stars": 6,
+            "stars": 7,
             "topics": []
           },
           "first_seen": "2026-08-28T18:44:35.141Z"
@@ -520,11 +520,11 @@
             "id": 440752086,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-29T12:40:38Z",
-            "open_issues": 963,
+            "last_commit": "2026-08-30T11:09:19Z",
+            "open_issues": 964,
             "owner": "coder",
             "repo": "coder",
-            "stars": 14294,
+            "stars": 14299,
             "topics": [
               "agents",
               "dev-tools",
@@ -556,7 +556,7 @@
             "open_issues": 18,
             "owner": "coder",
             "repo": "box",
-            "stars": 19,
+            "stars": 20,
             "topics": [
               "nixos"
             ]
@@ -568,7 +568,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T12:42:09.520Z",
+    "last_updated": "2026-08-30T11:56:42.619Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Coder resources.",
@@ -580,7 +580,7 @@
       "open_issues": 2,
       "owner": "coder",
       "repo": "awesome-coder",
-      "stars": 209,
+      "stars": 210,
       "topics": [
         "awesome",
         "awesome-list",
