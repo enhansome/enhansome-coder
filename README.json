@@ -19,7 +19,7 @@
             "open_issues": 156,
             "owner": "coder",
             "repo": "code-server",
-            "stars": 79527,
+            "stars": 79536,
             "topics": [
               "browser-ide",
               "dev-tools",
@@ -44,11 +44,11 @@
             "id": 440752086,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-03T11:41:12Z",
-            "open_issues": 1196,
+            "last_commit": "2026-10-04T07:01:57Z",
+            "open_issues": 1185,
             "owner": "coder",
             "repo": "coder",
-            "stars": 16821,
+            "stars": 16832,
             "topics": [
               "agents",
               "dev-tools",
@@ -76,11 +76,11 @@
             "id": 1058825816,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-03T11:40:59Z",
-            "open_issues": 346,
+            "last_commit": "2026-10-04T12:16:43Z",
+            "open_issues": 358,
             "owner": "coder",
             "repo": "xum",
-            "stars": 2044,
+            "stars": 2045,
             "topics": [
               "agent",
               "ide"
@@ -497,7 +497,7 @@
             "open_issues": 1,
             "owner": "coder",
             "repo": "coder-desktop-linux",
-            "stars": 7,
+            "stars": 8,
             "topics": []
           },
           "first_seen": "2026-08-28T18:44:35.141Z"
@@ -520,11 +520,11 @@
             "id": 440752086,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-03T11:41:12Z",
-            "open_issues": 1196,
+            "last_commit": "2026-10-04T07:01:57Z",
+            "open_issues": 1185,
             "owner": "coder",
             "repo": "coder",
-            "stars": 16821,
+            "stars": 16832,
             "topics": [
               "agents",
               "dev-tools",
@@ -568,7 +568,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T11:42:11.609Z",
+    "last_updated": "2026-10-04T12:24:27.079Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Coder resources.",

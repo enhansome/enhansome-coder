@@ -39,9 +39,9 @@ Your [contributions](CONTRIBUTING.md) are welcome!
 
 ## Platform and Tools
 
-* [coder/code-server](https://github.com/coder/code-server) ⭐ 79,527 | 🐛 156 | 🌐 TypeScript | 📅 2026-10-02 - Run VS Code in a browser tab. The default web IDE for many Coder workspaces.
-* [coder/coder](https://github.com/coder/coder) ⭐ 16,821 | 🐛 1,196 | 🌐 Go | 📅 2026-10-03 - The Coder server, agent, and CLI. Self-hosted cloud development environments and AI coding agents defined in Terraform.
-* [coder/mux](https://github.com/coder/mux) ⭐ 2,044 | 🐛 346 | 🌐 TypeScript | 📅 2026-10-03 - Desktop and browser app for running multiple AI coding agents side-by-side on local or remote compute, with isolated workspaces and a multi-model loop.
+* [coder/code-server](https://github.com/coder/code-server) ⭐ 79,536 | 🐛 156 | 🌐 TypeScript | 📅 2026-10-02 - Run VS Code in a browser tab. The default web IDE for many Coder workspaces.
+* [coder/coder](https://github.com/coder/coder) ⭐ 16,832 | 🐛 1,185 | 🌐 Go | 📅 2026-10-04 - The Coder server, agent, and CLI. Self-hosted cloud development environments and AI coding agents defined in Terraform.
+* [coder/mux](https://github.com/coder/mux) ⭐ 2,045 | 🐛 358 | 🌐 TypeScript | 📅 2026-10-04 - Desktop and browser app for running multiple AI coding agents side-by-side on local or remote compute, with isolated workspaces and a multi-model loop.
 * [coder/boo](https://github.com/coder/boo) ⭐ 792 | 🐛 7 | 🌐 Zig | 📅 2026-07-05 - GNU screen-style terminal multiplexer built on libghostty, with `send`, `peek`, and `wait` primitives for driving interactive programs from scripts and AI agents.
 * [coder/envbuilder](https://github.com/coder/envbuilder) ⭐ 301 | 🐛 93 | 🌐 Go | 📅 2026-10-03 - Build workspaces from a Dockerfile or devcontainer.json on Docker, Kubernetes, and OpenShift.
 * [coder/registry](https://github.com/coder/registry) ⭐ 80 | 🐛 84 | 🌐 HCL | 📅 2026-10-02 - Source for the templates and modules published to registry.coder.com.
@@ -88,11 +88,11 @@ Start with the [Coder Registry](https://registry.coder.com/modules) for modules 
 
 * [coder/coder-desktop-windows](https://github.com/coder/coder-desktop-windows) ⭐ 29 | 🐛 33 | 🌐 C# | 📅 2026-09-24 - Native Windows Coder Desktop client.
 * [coder/coder-desktop-macos](https://github.com/coder/coder-desktop-macos) ⭐ 28 | 🐛 23 | 🌐 Swift | 📅 2026-09-17 - Native macOS Coder Desktop client.
-* [coder/coder-desktop-linux](https://github.com/coder/coder-desktop-linux) ⭐ 7 | 🐛 1 | 🌐 C# | 📅 2026-09-24 - Coder Desktop for Linux, including the Avalonia tray app and VPN service integration.
+* [coder/coder-desktop-linux](https://github.com/coder/coder-desktop-linux) ⭐ 8 | 🐛 1 | 🌐 C# | 📅 2026-09-24 - Coder Desktop for Linux, including the Avalonia tray app and VPN service integration.
 
 ## Automation
 
-* [Provision Coder with Lima](https://github.com/coder/coder/tree/main/examples/lima) ⭐ 16,821 | 🐛 1,196 | 🌐 Go | 📅 2026-10-03 - Linux virtual machines, typically on macOS, for running containerd.
+* [Provision Coder with Lima](https://github.com/coder/coder/tree/main/examples/lima) ⭐ 16,832 | 🐛 1,185 | 🌐 Go | 📅 2026-10-04 - Linux virtual machines, typically on macOS, for running containerd.
 * [coder/box](https://github.com/coder/box) ⭐ 20 | 🐛 18 | 🌐 Nix | 📅 2026-10-01 - NixOS appliance that provisions a single-node Coder server and k3s cluster on a physical machine for self-contained demos and workshops.
 * [Validated architectures](https://coder.com/docs/admin/infrastructure/validated-architectures) - Reference architectures for deploying Coder in production on Kubernetes and other platforms.
 * [Update Coder Template](https://github.com/marketplace/actions/update-coder-template) - A GitHub Action to automate Coder template changes.
@@ -124,4 +124,4 @@ To the extent possible under law, Coder has waived all copyright and related or 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
