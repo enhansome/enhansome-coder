@@ -39,9 +39,9 @@ Your [contributions](CONTRIBUTING.md) are welcome!
 
 ## Platform and Tools
 
-* [coder/code-server](https://github.com/coder/code-server) ⭐ 79,551 | 🐛 156 | 🌐 TypeScript | 📅 2026-10-02 - Run VS Code in a browser tab. The default web IDE for many Coder workspaces.
-* [coder/coder](https://github.com/coder/coder) ⭐ 16,859 | 🐛 1,170 | 🌐 Go | 📅 2026-10-06 - The Coder server, agent, and CLI. Self-hosted cloud development environments and AI coding agents defined in Terraform.
-* [coder/mux](https://github.com/coder/mux) ⭐ 2,044 | 🐛 382 | 🌐 TypeScript | 📅 2026-10-06 - Desktop and browser app for running multiple AI coding agents side-by-side on local or remote compute, with isolated workspaces and a multi-model loop.
+* [coder/code-server](https://github.com/coder/code-server) ⭐ 79,555 | 🐛 156 | 🌐 TypeScript | 📅 2026-10-02 - Run VS Code in a browser tab. The default web IDE for many Coder workspaces.
+* [coder/coder](https://github.com/coder/coder) ⭐ 16,864 | 🐛 1,168 | 🌐 Go | 📅 2026-10-06 - The Coder server, agent, and CLI. Self-hosted cloud development environments and AI coding agents defined in Terraform.
+* [coder/mux](https://github.com/coder/mux) ⭐ 2,044 | 🐛 393 | 🌐 TypeScript | 📅 2026-10-06 - Desktop and browser app for running multiple AI coding agents side-by-side on local or remote compute, with isolated workspaces and a multi-model loop.
 * [coder/boo](https://github.com/coder/boo) ⭐ 793 | 🐛 7 | 🌐 Zig | 📅 2026-07-05 - GNU screen-style terminal multiplexer built on libghostty, with `send`, `peek`, and `wait` primitives for driving interactive programs from scripts and AI agents.
 * [coder/envbuilder](https://github.com/coder/envbuilder) ⭐ 301 | 🐛 93 | 🌐 Go | 📅 2026-10-05 - Build workspaces from a Dockerfile or devcontainer.json on Docker, Kubernetes, and OpenShift.
 * [coder/registry](https://github.com/coder/registry) ⭐ 80 | 🐛 81 | 🌐 HCL | 📅 2026-10-06 - Source for the templates and modules published to registry.coder.com.
@@ -75,7 +75,7 @@ Start with the [Coder Registry](https://registry.coder.com/modules) for modules 
 
 ## IDE Integrations
 
-* [coder/vscode-coder](https://github.com/coder/vscode-coder) ⭐ 132 | 🐛 49 | 🌐 TypeScript | 📅 2026-10-06 - VS Code extension to open any Coder workspace with a single click. Also works in VS Code forks like Cursor, Windsurf, and Kiro.
+* [coder/vscode-coder](https://github.com/coder/vscode-coder) ⭐ 132 | 🐛 50 | 🌐 TypeScript | 📅 2026-10-06 - VS Code extension to open any Coder workspace with a single click. Also works in VS Code forks like Cursor, Windsurf, and Kiro.
 * [coder/coder-jetbrains-toolbox](https://github.com/coder/coder-jetbrains-toolbox) ⭐ 22 | 🐛 29 | 🌐 Kotlin | 📅 2026-10-01 - JetBrains Toolbox plugin for Coder.
 * [Workspace access](https://coder.com/docs/user-guides/workspace-access) - Connect to Coder workspaces from VS Code, JetBrains, Cursor, Zed, code-server, and the CLI.
 * [Cursor module](https://registry.coder.com/modules/coder/cursor) - One-click launch button for Cursor IDE, with optional MCP server configuration.
@@ -92,7 +92,7 @@ Start with the [Coder Registry](https://registry.coder.com/modules) for modules 
 
 ## Automation
 
-* [Provision Coder with Lima](https://github.com/coder/coder/tree/main/examples/lima) ⭐ 16,859 | 🐛 1,170 | 🌐 Go | 📅 2026-10-06 - Linux virtual machines, typically on macOS, for running containerd.
+* [Provision Coder with Lima](https://github.com/coder/coder/tree/main/examples/lima) ⭐ 16,864 | 🐛 1,168 | 🌐 Go | 📅 2026-10-06 - Linux virtual machines, typically on macOS, for running containerd.
 * [coder/box](https://github.com/coder/box) ⭐ 20 | 🐛 18 | 🌐 Nix | 📅 2026-10-01 - NixOS appliance that provisions a single-node Coder server and k3s cluster on a physical machine for self-contained demos and workshops.
 * [Validated architectures](https://coder.com/docs/admin/infrastructure/validated-architectures) - Reference architectures for deploying Coder in production on Kubernetes and other platforms.
 * [Update Coder Template](https://github.com/marketplace/actions/update-coder-template) - A GitHub Action to automate Coder template changes.
