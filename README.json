@@ -19,7 +19,7 @@
             "open_issues": 153,
             "owner": "coder",
             "repo": "code-server",
-            "stars": 79639,
+            "stars": 79642,
             "topics": [
               "browser-ide",
               "dev-tools",
@@ -44,11 +44,11 @@
             "id": 440752086,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-17T05:09:09Z",
-            "open_issues": 1162,
+            "last_commit": "2026-10-18T10:07:51Z",
+            "open_issues": 1152,
             "owner": "coder",
             "repo": "coder",
-            "stars": 17057,
+            "stars": 17078,
             "topics": [
               "agents",
               "dev-tools",
@@ -76,11 +76,11 @@
             "id": 1058825816,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-17T10:39:44Z",
-            "open_issues": 493,
+            "last_commit": "2026-10-18T11:08:55Z",
+            "open_issues": 490,
             "owner": "coder",
             "repo": "xum",
-            "stars": 2053,
+            "stars": 2054,
             "topics": [
               "agent",
               "ide"
@@ -520,11 +520,11 @@
             "id": 440752086,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-17T05:09:09Z",
-            "open_issues": 1162,
+            "last_commit": "2026-10-18T10:07:51Z",
+            "open_issues": 1152,
             "owner": "coder",
             "repo": "coder",
-            "stars": 17057,
+            "stars": 17078,
             "topics": [
               "agents",
               "dev-tools",
@@ -568,7 +568,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T10:47:22.548Z",
+    "last_updated": "2026-10-18T11:09:35.586Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Coder resources.",
