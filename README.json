@@ -15,11 +15,11 @@
             "id": 172953845,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-14T21:47:08Z",
-            "open_issues": 155,
+            "last_commit": "2026-10-20T18:52:34Z",
+            "open_issues": 156,
             "owner": "coder",
             "repo": "code-server",
-            "stars": 79657,
+            "stars": 79662,
             "topics": [
               "browser-ide",
               "dev-tools",
@@ -44,11 +44,11 @@
             "id": 440752086,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-20T11:35:06Z",
-            "open_issues": 1183,
+            "last_commit": "2026-10-21T11:52:23Z",
+            "open_issues": 1218,
             "owner": "coder",
             "repo": "coder",
-            "stars": 17112,
+            "stars": 17130,
             "topics": [
               "agents",
               "dev-tools",
@@ -76,8 +76,8 @@
             "id": 1058825816,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-20T11:38:42Z",
-            "open_issues": 429,
+            "last_commit": "2026-10-21T11:48:18Z",
+            "open_issues": 411,
             "owner": "coder",
             "repo": "xum",
             "stars": 2057,
@@ -132,7 +132,7 @@
             "open_issues": 94,
             "owner": "coder",
             "repo": "envbuilder",
-            "stars": 302,
+            "stars": 303,
             "topics": []
           },
           "first_seen": "2026-08-28T18:44:35.141Z"
@@ -149,11 +149,11 @@
             "id": 961990912,
             "language": "HCL",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T10:57:57Z",
+            "last_commit": "2026-10-21T08:06:34Z",
             "open_issues": 92,
             "owner": "coder",
             "repo": "registry",
-            "stars": 81,
+            "stars": 82,
             "topics": [
               "ai",
               "dev-tools",
@@ -189,7 +189,7 @@
             "open_issues": 6,
             "owner": "bpmct",
             "repo": "coder-templates",
-            "stars": 102,
+            "stars": 103,
             "topics": []
           },
           "first_seen": "2026-08-28T18:44:35.141Z"
@@ -210,7 +210,7 @@
             "open_issues": 0,
             "owner": "sharkymark",
             "repo": "v2-templates",
-            "stars": 100,
+            "stars": 101,
             "topics": []
           },
           "first_seen": "2026-08-28T18:44:35.141Z"
@@ -346,8 +346,8 @@
             "id": 462891362,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-19T19:18:01Z",
-            "open_issues": 50,
+            "last_commit": "2026-10-20T20:46:40Z",
+            "open_issues": 49,
             "owner": "coder",
             "repo": "terraform-provider-coder",
             "stars": 62,
@@ -394,7 +394,7 @@
             "id": 582550891,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-19T23:36:07Z",
+            "last_commit": "2026-10-20T23:13:43Z",
             "open_issues": 44,
             "owner": "coder",
             "repo": "vscode-coder",
@@ -415,8 +415,8 @@
             "id": 934758256,
             "language": "Kotlin",
             "license": "MIT",
-            "last_commit": "2026-10-19T17:12:32Z",
-            "open_issues": 30,
+            "last_commit": "2026-10-20T21:25:44Z",
+            "open_issues": 31,
             "owner": "coder",
             "repo": "coder-jetbrains-toolbox",
             "stars": 23,
@@ -441,6 +441,27 @@
       "items": [
         {
           "node_type": "item",
+          "title": "coder/coder-desktop-macos",
+          "description": "Native macOS Coder Desktop client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Coder Desktop application for macOS",
+            "homepage": null,
+            "id": 859698790,
+            "language": "Swift",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-21T03:04:23Z",
+            "open_issues": 23,
+            "owner": "coder",
+            "repo": "coder-desktop-macos",
+            "stars": 29,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T18:44:35.141Z"
+        },
+        {
+          "node_type": "item",
           "title": "coder/coder-desktop-windows",
           "description": "Native Windows Coder Desktop client.",
           "children": [],
@@ -456,27 +477,6 @@
             "owner": "coder",
             "repo": "coder-desktop-windows",
             "stars": 29,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T18:44:35.141Z"
-        },
-        {
-          "node_type": "item",
-          "title": "coder/coder-desktop-macos",
-          "description": "Native macOS Coder Desktop client.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Coder Desktop application for macOS",
-            "homepage": null,
-            "id": 859698790,
-            "language": "Swift",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-10-19T08:06:36Z",
-            "open_issues": 23,
-            "owner": "coder",
-            "repo": "coder-desktop-macos",
-            "stars": 28,
             "topics": []
           },
           "first_seen": "2026-08-28T18:44:35.141Z"
@@ -520,11 +520,11 @@
             "id": 440752086,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-20T11:35:06Z",
-            "open_issues": 1183,
+            "last_commit": "2026-10-21T11:52:23Z",
+            "open_issues": 1218,
             "owner": "coder",
             "repo": "coder",
-            "stars": 17112,
+            "stars": 17130,
             "topics": [
               "agents",
               "dev-tools",
@@ -552,7 +552,7 @@
             "id": 1211710747,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-10-01T18:33:30Z",
+            "last_commit": "2026-10-20T12:42:16Z",
             "open_issues": 18,
             "owner": "coder",
             "repo": "box",
@@ -568,7 +568,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T11:40:59.406Z",
+    "last_updated": "2026-10-21T11:52:37.971Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Coder resources.",
