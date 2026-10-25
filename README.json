@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-23T23:32:13Z",
-            "open_issues": 156,
+            "open_issues": 158,
             "owner": "coder",
             "repo": "code-server",
-            "stars": 79685,
+            "stars": 79698,
             "topics": [
               "browser-ide",
               "dev-tools",
@@ -44,11 +44,11 @@
             "id": 440752086,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-24T10:32:21Z",
-            "open_issues": 1246,
+            "last_commit": "2026-10-25T10:49:18Z",
+            "open_issues": 1244,
             "owner": "coder",
             "repo": "coder",
-            "stars": 17159,
+            "stars": 17168,
             "topics": [
               "agents",
               "dev-tools",
@@ -76,11 +76,11 @@
             "id": 1058825816,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-24T10:47:15Z",
-            "open_issues": 407,
+            "last_commit": "2026-10-25T11:31:14Z",
+            "open_issues": 422,
             "owner": "coder",
             "repo": "xum",
-            "stars": 2063,
+            "stars": 2062,
             "topics": [
               "agent",
               "ide"
@@ -132,7 +132,7 @@
             "open_issues": 94,
             "owner": "coder",
             "repo": "envbuilder",
-            "stars": 303,
+            "stars": 304,
             "topics": []
           },
           "first_seen": "2026-08-28T18:44:35.141Z"
@@ -150,7 +150,7 @@
             "language": "HCL",
             "license": "Apache-2.0",
             "last_commit": "2026-10-23T21:03:59Z",
-            "open_issues": 93,
+            "open_issues": 94,
             "owner": "coder",
             "repo": "registry",
             "stars": 82,
@@ -520,11 +520,11 @@
             "id": 440752086,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-24T10:32:21Z",
-            "open_issues": 1246,
+            "last_commit": "2026-10-25T10:49:18Z",
+            "open_issues": 1244,
             "owner": "coder",
             "repo": "coder",
-            "stars": 17159,
+            "stars": 17168,
             "topics": [
               "agents",
               "dev-tools",
@@ -568,7 +568,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T11:04:46.421Z",
+    "last_updated": "2026-10-25T11:34:27.634Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Coder resources.",
