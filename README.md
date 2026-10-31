@@ -39,12 +39,12 @@ Your [contributions](CONTRIBUTING.md) are welcome!
 
 ## Platform and Tools
 
-* [coder/code-server](https://github.com/coder/code-server) ⭐ 79,729 | 🐛 154 | 🌐 TypeScript | 📅 2026-10-29 - Run VS Code in a browser tab. The default web IDE for many Coder workspaces.
-* [coder/coder](https://github.com/coder/coder) ⭐ 17,234 | 🐛 1,212 | 🌐 Go | 📅 2026-10-30 - The Coder server, agent, and CLI. Self-hosted cloud development environments and AI coding agents defined in Terraform.
-* [coder/mux](https://github.com/coder/mux) ⭐ 2,062 | 🐛 410 | 🌐 TypeScript | 📅 2026-10-30 - Desktop and browser app for running multiple AI coding agents side-by-side on local or remote compute, with isolated workspaces and a multi-model loop.
+* [coder/code-server](https://github.com/coder/code-server) ⭐ 79,741 | 🐛 154 | 🌐 TypeScript | 📅 2026-10-29 - Run VS Code in a browser tab. The default web IDE for many Coder workspaces.
+* [coder/coder](https://github.com/coder/coder) ⭐ 17,239 | 🐛 1,150 | 🌐 Go | 📅 2026-10-31 - The Coder server, agent, and CLI. Self-hosted cloud development environments and AI coding agents defined in Terraform.
+* [coder/mux](https://github.com/coder/mux) ⭐ 2,061 | 🐛 419 | 🌐 TypeScript | 📅 2026-10-31 - Desktop and browser app for running multiple AI coding agents side-by-side on local or remote compute, with isolated workspaces and a multi-model loop.
 * [coder/boo](https://github.com/coder/boo) ⭐ 789 | 🐛 7 | 🌐 Zig | 📅 2026-07-05 - GNU screen-style terminal multiplexer built on libghostty, with `send`, `peek`, and `wait` primitives for driving interactive programs from scripts and AI agents.
 * [coder/envbuilder](https://github.com/coder/envbuilder) ⭐ 305 | 🐛 92 | 🌐 Go | 📅 2026-10-26 - Build workspaces from a Dockerfile or devcontainer.json on Docker, Kubernetes, and OpenShift.
-* [coder/registry](https://github.com/coder/registry) ⭐ 83 | 🐛 95 | 🌐 HCL | 📅 2026-10-30 - Source for the templates and modules published to registry.coder.com.
+* [coder/registry](https://github.com/coder/registry) ⭐ 83 | 🐛 98 | 🌐 HCL | 📅 2026-10-31 - Source for the templates and modules published to registry.coder.com.
 
 ## AI Coding Agents
 
@@ -87,12 +87,12 @@ Start with the [Coder Registry](https://registry.coder.com/modules) for modules 
 ## Coder Desktop
 
 * [coder/coder-desktop-macos](https://github.com/coder/coder-desktop-macos) ⭐ 29 | 🐛 26 | 🌐 Swift | 📅 2026-10-30 - Native macOS Coder Desktop client.
-* [coder/coder-desktop-windows](https://github.com/coder/coder-desktop-windows) ⭐ 29 | 🐛 31 | 🌐 C# | 📅 2026-10-29 - Native Windows Coder Desktop client.
+* [coder/coder-desktop-windows](https://github.com/coder/coder-desktop-windows) ⭐ 29 | 🐛 31 | 🌐 C# | 📅 2026-10-30 - Native Windows Coder Desktop client.
 * [coder/coder-desktop-linux](https://github.com/coder/coder-desktop-linux) ⭐ 8 | 🐛 1 | 🌐 C# | 📅 2026-10-20 - Coder Desktop for Linux, including the Avalonia tray app and VPN service integration.
 
 ## Automation
 
-* [Provision Coder with Lima](https://github.com/coder/coder/tree/main/examples/lima) ⭐ 17,234 | 🐛 1,212 | 🌐 Go | 📅 2026-10-30 - Linux virtual machines, typically on macOS, for running containerd.
+* [Provision Coder with Lima](https://github.com/coder/coder/tree/main/examples/lima) ⭐ 17,239 | 🐛 1,150 | 🌐 Go | 📅 2026-10-31 - Linux virtual machines, typically on macOS, for running containerd.
 * [coder/box](https://github.com/coder/box) ⭐ 20 | 🐛 18 | 🌐 Nix | 📅 2026-10-20 - NixOS appliance that provisions a single-node Coder server and k3s cluster on a physical machine for self-contained demos and workshops.
 * [Validated architectures](https://coder.com/docs/admin/infrastructure/validated-architectures) - Reference architectures for deploying Coder in production on Kubernetes and other platforms.
 * [Update Coder Template](https://github.com/marketplace/actions/update-coder-template) - A GitHub Action to automate Coder template changes.
@@ -124,4 +124,4 @@ To the extent possible under law, Coder has waived all copyright and related or 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
